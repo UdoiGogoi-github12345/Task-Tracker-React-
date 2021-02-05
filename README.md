@@ -8,6 +8,6 @@ A React-app built for user friendly task tracking,reminding users of their event
  - Users can delete tasks which have been completed.
 
 
-![Finished App](https://github.com/UdoiGogoi-github12345/Task-Tracker-React-/blob/main/React-task-tracker/Screenshot%20(94).png)
+![Finished App](https://github.com/UdoiGogoi-github12345/Task-Tracker-React-/blob/main/React-task-tracker/Screenshot%20(95).png)
 
 ## Thank You!!!
